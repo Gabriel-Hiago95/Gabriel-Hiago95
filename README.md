@@ -1,4 +1,4 @@
-### Hi there 👋
+<!---### Hi there 👋
 
 **Gabriel-Hiago95/Gabriel-Hiago95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:54D640,100:0C5700&height=250&section=header&text=Gabriel%20Hiago%20Maciel%20de%20Oliveira&animation=fadeIn&fontColor=ffffff&fontSize=40"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54D640&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Hiago;I'm+27+years+old;I+from+Brasil,Teresina+PI;I+study+systems+development+at+IFPI;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Hiago95&show_icons=true&count_private=true&hide_border=true&title_color=128A00&icon_color=128A00&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Hiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Hiago95&layout=compact&hide_border=true&title_color=128A00&text_color=128A00&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:54D640,100:0C5700&height=120&section=footer"/>
