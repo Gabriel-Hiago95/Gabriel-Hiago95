@@ -17,49 +17,54 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54D640&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Hiago;I'm+27+years+old;I+from+Brasil,Teresina+PI;I+study+systems+development+at+IFPI;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Hiago95&show_icons=true&count_private=true&hide_border=true&title_color=128A00&icon_color=128A00&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Hiago github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Hiago95&layout=compact&hide_border=true&title_color=128A00&text_color=128A00&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Hiago95&show_icons=true&count_private=true&text_bold=true&title_color=ffffff&icon_color=1DD600&text_color=ffffff&bg_color=DEG,0C5700,3E9D2F" alt="Gabriel Hiago's github stats""/>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Hiago95&title_color=ffffff&text_color=ffffff&bg_color=DEG,0C5700,3E9D2F"/>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MthAlvarez&theme=gotham)
+### My Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabriel-Hiago95&bg_color=4B4B4D&color=ffffff&line=1DD600&point=ffffff&area=true&hide_border=true&radius=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Hiago95&theme=onedark&margin-w=15" />
 </p>
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+### My Social Networks:
+<div>  
+<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-3E9D2F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://github.com/Gabriel-Hiago95" target="_blank"><img src="https://img.shields.io/badge/github-3E9D2F?style=for-the-badge&logo=github&logoColor=white"</a>
 </div>
   
 
 ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-3E9D2F?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3E9D2F)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-3E9D2F?style=for-the-badge&logo=github&labelColor=3E9D2F)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-3E9D2F?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=3E9D2F)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-3E9D2F?style=for-the-badge&logo=html5&logoColor=ffffff)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3E9D2F?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=3E9D2F)&nbsp;
+![Git](https://img.shields.io/badge/-Git-3E9D2F?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=3E9D2F)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-3E9D2F?style=for-the-badge&logo=github&labelColor=3E9D2F)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-3E9D2F?style=for-the-badge&logo=windows&labelColor=3E9D2F)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-3E9D2F?style=for-the-badge&logo=postgresql&logoColor=ffffff)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-3E9D2F?style=for-the-badge&logo=Flutter&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-3E9D2F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3E9D2F&textColor=3E9D2F)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-3E9D2F?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=3E9D2F&textColor=3E9D2F)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-3E9D2F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3E9D2F&textColor=ffffff)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-3E9D2F?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/dart-3E9D2F?style=for-the-badge&logo=dart&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/php-3E9D2F?style=for-the-badge&logo=php&logoColor=ffffff)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabriel-Hiago95}/count.svg" /></p> 
 <br></div>
   
 
