@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Hiago95&show_icons=true&count_private=true&text_bold=true&title_color=ffffff&icon_color=1DD600&text_color=ffffff&bg_color=DEG,0C5700,3E9D2F" alt="Gabriel Hiago's github stats""/>
   
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Hiago95&title_color=ffffff&text_color=ffffff&bg_color=DEG,0C5700,3E9D2F"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Hiago95&title_color=ffffff&text_color=ffffff&bg_color=DEG,0C5700,3E9D2F"/>
 </div>
 
 ### My Activity
